@@ -5,6 +5,7 @@
       "expo-router"
     ],
     "name": "JobSearchRN",
-    "slug": "JobSearchRN"
+    "slug": "JobSearchRN",
+    "newArchEnabled": true
   }
 }
